@@ -67,8 +67,8 @@ class Javohir:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyberdineT800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&rank_icon=github&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberdineT800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=8&cache_seconds=1800" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberdineT800&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberdineT800&theme=tokyonight" height="165" />
 
 <br/>
 
