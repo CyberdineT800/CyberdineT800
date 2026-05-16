@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Javohir%20Abdugafforov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Tashkent%2C%20Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF&descAlignY=55&descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Backend+Developer+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+C%23+%2F+.NET;Building+scalable+systems+%26+AI+pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Backend+Developer+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+C%23+%2F+.NET;Building+scalable+systems+%26+AI+pipelines" alt="Typing SVG" />
 
 <br/>
 
@@ -67,12 +67,12 @@ class Javohir:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyberdineT800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberdineT800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=CyberdineT800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&rank_icon=github&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberdineT800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=8&cache_seconds=1800" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberdineT800&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<img src="https://streak-stats.demolab.com/?user=CyberdineT800&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
 <br/>
 
